@@ -3,7 +3,8 @@
 
 import math;
 
-int main() {
+int main()
+{
   math::Vec3 x{1, 0, 0};
   math::Vec3 y{0, 1, 0};
   math::Vec3 z{0, 0, 1};
