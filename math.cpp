@@ -1,7 +1,9 @@
 module;
 #include <stdlib.h>
-#include <string>
+
 export module math;
+export import "string.hu";
+
 export namespace math
 {
 
